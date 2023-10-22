@@ -1,8 +1,10 @@
 First draft : 22 Oct 2023
 
-Revisions : 2
+Revisions : 4
 
-# Planning The Android App - ROP Time Management System Devlog
+[Blog post](https://pacolemon.blogspot.com/2023/10/android-app-plan-rop-devlog-1.html)
+
+# Planning The Android App - ROP Time Management System Devlog #1
 
 I had a call with PacoLemon team on Saturday morning to give a brief about the Ratio of Priority (ROP) time management system development plan.
 
@@ -16,7 +18,7 @@ If it were before ROP was formulated, that promise would mean only to hype the m
 
 I dislikes Android development, mainly because the development felt sluggish.
 
-Thanks to ROP's high rate of to enter [the State of Flow](https://en.wikipedia.org/wiki/Flow_(psychology)), I build a working prototype later that night.
+Thanks to ROP's high rate to enter [the State of Flow](https://en.wikipedia.org/wiki/Flow_(psychology)), I build a working prototype later that night.
 
 I also adjusted the priority ratio of Android development to 70%.
 
