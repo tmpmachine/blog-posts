@@ -1,8 +1,10 @@
 First draft : 22 Oct 2023
 
-Revisions : 2
+Revisions : 3
 
-# Planning The Android App - ROP Time Management System Devlog
+[Blog post](https://pacolemon.blogspot.com/2023/10/android-app-plan-rop-devlog-1.html)
+
+# Planning The Android App - ROP Time Management System Devlog #1
 
 I had a call with PacoLemon team on Saturday morning to give a brief about the Ratio of Priority (ROP) time management system development plan.
 
