@@ -1,6 +1,6 @@
 First draft : 22 Oct 2023
 
-Revisions : 3
+Revisions : 4
 
 [Blog post](https://pacolemon.blogspot.com/2023/10/android-app-plan-rop-devlog-1.html)
 
@@ -18,7 +18,7 @@ If it were before ROP was formulated, that promise would mean only to hype the m
 
 I dislikes Android development, mainly because the development felt sluggish.
 
-Thanks to ROP's high rate of to enter [the State of Flow](https://en.wikipedia.org/wiki/Flow_(psychology)), I build a working prototype later that night.
+Thanks to ROP's high rate to enter [the State of Flow](https://en.wikipedia.org/wiki/Flow_(psychology)), I build a working prototype later that night.
 
 I also adjusted the priority ratio of Android development to 70%.
 
