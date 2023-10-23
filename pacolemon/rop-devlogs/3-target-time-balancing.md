@@ -2,6 +2,8 @@ First draft : 23 Oct 2023
 
 Revisions : 3
 
+[Blog post](https://pacolemon.blogspot.com/2023/10/time-balancing-rop-devlog-3.html)
+
 # Time Balancing - ROP Time Management System Devlog #3
 
 The core of the Ratio of Priority (ROP) time management system is target time balancing or Time Balancing (TB) for short. The purpose of TB is to help the user reach balance in their work by making sure they're spending the minimum amount of time required by each task.
