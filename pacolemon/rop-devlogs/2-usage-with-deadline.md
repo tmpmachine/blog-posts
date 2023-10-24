@@ -10,8 +10,6 @@ Ratio of Priority (ROP) time management system works great to develop long term 
 
 One of the questions arised by XG (PacoLemon team member) is how the system would work if it were used in a time-constrained case, a deadline.
 
-It's a good thing I've run an experiment on it before the brief.
-
 While the ROP time management system not designed for time-constrainted case, it can handle them just fine up to a certain level.
 
 # Result on A Week Long Experiment
