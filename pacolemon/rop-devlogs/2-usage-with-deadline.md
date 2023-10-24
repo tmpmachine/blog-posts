@@ -1,6 +1,6 @@
 First draft : 22 Oct 2023
 
-Revisions : 5
+Revisions : 6
 
 [Blog post](https://pacolemon.blogspot.com/2023/10/a-time-constrained-case-rop-devlog-2.html)
 
@@ -9,8 +9,6 @@ Revisions : 5
 Ratio of Priority (ROP) time management system works great to develop long term hobbies with no predetermined deadline, but there's always a flip side of the coin.
 
 One of the questions arised by XG (PacoLemon team member) is how the system would work if it were used in a time-constrained case, a deadline.
-
-It's a good thing I've run an experiment on it before the brief.
 
 While the ROP time management system not designed for time-constrainted case, it can handle them just fine up to a certain level.
 
