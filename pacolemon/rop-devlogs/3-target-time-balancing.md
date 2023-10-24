@@ -1,6 +1,6 @@
 First draft : 23 Oct 2023
 
-Revisions : 3
+Revisions : 4
 
 [Blog post](https://pacolemon.blogspot.com/2023/10/time-balancing-rop-devlog-3.html)
 
@@ -28,7 +28,7 @@ j = 1
 for i = 1:N, i != j
   targetTime[i] = targetTime[i] + minutesToDistribute * ( ratio[i] / remainingRatio )
 ```
-Where `remainingRatio` and `minutesToDistribute` are the remaining ratio and remaining progress of `task[j]` if it were at 100% ROP. These values can be retrieved with the following equation :
+Where `remainingRatio` is the remaining ROP and `minutesToDistribute` is the added progress at 100% ROP substracted by added progress of `task[j]`. These values can be retrieved with the following equation :
 ```
 remainingRatio = 100 - ratio[j]
 minutesToDistribute = ( addedMinutes *  ( remainingRatio / 100 ) ) / ( ratio[j] / 100 )
